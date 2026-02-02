@@ -1,0 +1,18 @@
+header {
+    color: white;
+    background-color: rgb(149, 149, 218);
+    text-align: center;
+    margin: 50 px auto;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+figcaption {
+    text-align: center;
+}
+
+#divDegree {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
